@@ -1,0 +1,28 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+pull.cfg
+pull.cmd
+Puller.jar
+
+settings.cfg
+
+# Package Files #
+*.zip
+*.rar
+*.sql
+
+### Server ###
+logs/
+appdata/
+userdata/
+cache/
+mysql/
+temp/
+pdf/
+exports/
+out/
+backups/
