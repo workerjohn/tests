@@ -8,6 +8,8 @@ pull.cfg
 pull.cmd
 Puller.jar
 
+.pid
+
 settings.cfg
 
 # Package Files #
